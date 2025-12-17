@@ -1,3 +1,8 @@
+# Introduction
+
+These notes and resources are supplemental materials included with an ACRL Open Pedagogy Cookbook chapter on mapping and controlled vocabularies in the context of literary analysis. Students  identify places named in a text, use the Getty Thesaurus of Geographic Names (TGN) to disambiguate and normalize them, and map these locations collaboratively using tools such as ArcGIS Online or Google Maps. Through this process, students develop critical research skills, explore open data standards, and reflect on the value of structured vocabularies and mapping for both digital humanities research and literary interpretation. 
+
+
 ## Additional Resources
 
 - Getty Research Institute. 2025. *Getty Thesaurus of Geographical Names (TGN)*. Accessed November 26, 2025. https://www.getty.edu/research/tools/vocabularies/tgn/index.html.
