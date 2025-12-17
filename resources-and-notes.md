@@ -10,3 +10,10 @@
   - University of Virginia. 2025. “Frankenstein Example Map.” *Literature in Context*. Accessed November 26, 2025. https://anthology.lib.virginia.edu/work/Shelley/shelley-frankenstein-1818.
   - University of Virginia. 2025. “Assignment Sample: Geotagging.” *Literature in Context*. Accessed November 26, 2025. https://anthology.lib.virginia.edu/wiki.html?wiki-page=/Assignment-Sample:-Geotagging&wiki-uri=https://github.com/LiteratureInContext/LiC-assignments/wiki.
   - University of Virginia. 2025. “Encoding Places.” *Literature in Context*. Accessed November 26, 2025. https://anthology.lib.virginia.edu/wiki.html?wiki-page=/Encoding-Places&wiki-uri=https://github.com/LiteratureInContext/LiC-data/wiki.
+
+## Notes
+
+  - Dickerson, Madelynn. 2025. “Research Guides: Digital Humanities: Mapping & GIS.” Accessed November 26, 2025. https://guides.lib.uci.edu/digital_humanities/mapping.
+  - Harpring, Patricia. 2023. *Introduction to Controlled Vocabularies Featuring the Getty Vocabularies*. Los Angeles: Getty Research Institute. https://www.getty.edu/research/tools/vocabularies/intro_to_vocabs.pdf.
+  - Lovejoy, Henry B., Paul E. Lovejoy, Walter Hawthorne, et al. 2021. “Defining Regions of Pre-Colonial Africa: A Controlled Vocabulary for Linking Open-Source Data in Digital History Projects.” *History in Africa* 48: 9–34. https://doi.org/10.1017/hia.2020.17.
+  - Newcastle University Library. 2022. “Controlled Vocabularies: Why Do We Use Them?” YouTube video, 4:27. https://www.youtube.com/watch?v=OQl7bJs4LOU.
